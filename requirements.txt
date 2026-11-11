@@ -1,0 +1,4 @@
+# numpy 1.26: com o numpy 2 no Mac, o scikit-learn mostra avisos falsos de "divide by zero" (os resultados sao iguais)
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.6.1
